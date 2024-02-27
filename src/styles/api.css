@@ -1,0 +1,23 @@
+.center-api {
+    display: flex;
+    justify-content: center;
+}
+
+.letter-api {
+    text-align: center;
+    font-size: 44px;
+    font-weight: 700;
+    padding-top: 20px;
+}
+
+.contenido-api {
+    text-align: center;
+}
+
+.subtitulo-api {
+    color: black;
+    padding-top: 40px;
+    font-weight: 300;
+
+}
+

@@ -1,0 +1,13 @@
+.text-title {
+    padding-top: 30px;
+    text-align: center;
+}
+
+.imagen-size {
+    margin-left: 22px;
+    align-items: center;
+    justify-content: center;
+    width: 260px;
+    height: auto; 
+    margin-right: 30px; 
+}

@@ -1,0 +1,170 @@
+/*center text with padings*/
+.center {
+    padding-left: 75px;
+    padding-right: 75px;
+    margin-left: auto;
+}
+
+/*background color middle*/
+.background {
+    background-color: rgba(250, 245, 213, 1);
+}
+
+/*background color middle black*/
+.background-black {
+    background-color: #1f1f1f;
+}
+
+/*spacing*/
+.spacing {
+    margin-bottom: 40px;
+}
+
+/*to mark a word in another color*/
+span {
+    font-weight: 800;
+    color: black;
+}
+
+/*style h6*/
+h6 {
+    text-align: justify;
+    color: black;
+    font-weight: 400;
+    padding-top: 40px;
+}
+
+/*style p*/
+p {
+    margin-top: 22px;
+}
+
+/*style ul*/
+ul {
+    padding-left: 20px;
+}
+
+/*conatiner images*/
+.images-container {
+    display: flex;
+    justify-content: center;
+    gap: 30px; 
+}
+
+/*image height and width*/
+.images {
+    width: auto; 
+    height: auto; 
+}
+
+/*style of button*/
+.button {
+    background: none;
+    border: none;
+    padding: 0;
+    cursor: pointer;
+
+}
+
+/**/
+.button img {
+    width: 20px; 
+    height: auto; 
+
+}
+
+/**/
+.text-left, .text-right {
+    padding: 60px;
+}
+
+/*letter middle*/
+.span-middle{
+    font-weight: bolder;
+}
+
+.spacing-git {
+    margin-bottom: 7%;
+}
+
+.color-letter-black {
+    color: rgba(150, 141, 64, 1);
+}
+
+.menu-button {
+    text-align: start;
+    padding: 10px 20px;
+    cursor: pointer;
+    margin: 10px;
+    background-color: transparent;
+    color: rgba(150, 141, 64, 1);
+    font-size:28px;
+    font-weight: 700;
+    border: 0;
+    border-bottom: 1px solid rgba(150, 141, 64, 1);
+    width: 100%;
+}
+
+.spacing-goals {
+    padding-top: 40px;
+}
+
+.letter-goals {
+    font-size: 20px !important;
+    font-weight: 600 !important;
+    padding-right: 285px;
+    border: 0;
+    border-bottom: 1px solid #000;
+    
+}
+
+
+.menu-margin-top {
+    margin-top: 100px;
+}
+
+.menu-margin-bottom {
+    padding-bottom: 100PX;
+}
+
+.section-middle-bottom {
+    display: flex;
+    align-items: center;
+    padding: 120px;
+    font-size: large;
+    font-weight: 500;
+}
+
+.lista {
+    flex: 1;
+    margin: 0; 
+}
+
+.contenedor {
+    font-size: 28px;
+    font-weight: 600;
+    margin-left: 60px; 
+    color: rgba(150, 141, 64, 1);
+}
+
+.text-link-middle {
+    color: black;
+    display: flex;
+    justify-content: center;
+}
+
+.lista-middle {
+    color: white ;
+    padding-left: 50px;
+}
+
+.subtitulo-middle {
+    color: rgba(150, 141, 64, 1);
+    font-size: 28px;
+    font-weight: bold;
+}
+
+.imagen-arrow {
+    width: 30px;
+    height: 30px;
+}

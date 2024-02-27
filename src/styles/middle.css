@@ -1,0 +1,18 @@
+/*background color and spacing*/
+.white{
+    background-color: rgb(255, 255, 255);
+    margin-top: 170px;
+    padding: 35px; 
+}
+
+/*letter color size and alignment*/
+h5{
+    text-align: center;
+    color: #968d40;
+    font-weight: 700;
+}
+
+/*link color*/
+.link {
+    color: black;
+}

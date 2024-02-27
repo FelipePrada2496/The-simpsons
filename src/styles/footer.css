@@ -1,0 +1,23 @@
+.background-footer {
+    background-color: #282828;
+    padding-bottom: 80px;
+}
+
+.footer-letter {
+    color: white;
+    padding-top: 100px;
+    text-align: center;
+}
+
+.nombre{
+    padding-top: 40px;
+    text-align: start;
+    font-size: 14px;
+    font-weight: 200;
+}
+
+.gracias {
+    text-align: start;
+    font-size: 14px;
+    font-weight: 200;
+}
